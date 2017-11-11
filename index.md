@@ -1,3 +1,11 @@
+# Donghyun Yoo
+I am a post doc in CMU RI now. I was LG electronics and a startup comany, Withrobot for 10 years. I graduated KAIST(Korea Advanced Institute of Science and Technology) in South korea. 
+
+# CV
+
+# interesting area 
+computer vision, machine learning, deep learning, image synthesis, computer graphics
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/donghyunyoo/donghyunyoo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
