@@ -1,10 +1,22 @@
-# Donghyun Yoo
-I am a post doc in CMU RI now. I was LG electronics and a startup comany, Withrobot for 10 years. I graduated KAIST(Korea Advanced Institute of Science and Technology) in South korea. 
+Donghyun Yoo
+Postdoctoral Researcher
+Carnegie Mellon University, Robotics Institute
+Email: brianydh@gmail.com
+CV
+Resume
+Google Scholar
 
-# CV
+
+# About me
+I am a post doc in CMU RI now. I was LG electronics and a startup company, Withrobot for 10 years. I graduated KAIST(Korea Advanced Institute of Science and Technology) in South korea. 
 
 # interesting area 
 computer vision, machine learning, deep learning, image synthesis, computer graphics
+
+# Publications
+
+# Researches
+
 
 ## Welcome to GitHub Pages
 
