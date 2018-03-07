@@ -1,9 +1,15 @@
 Donghyun Yoo
+
 Postdoctoral Researcher
+
 Carnegie Mellon University, Robotics Institute
-Email: brianydh@gmail.com
+
+Email: donghyuy@andrew.cmu.edu
+
 CV
+
 Resume
+
 Google Scholar
 
 
@@ -16,6 +22,14 @@ computer vision, machine learning, deep learning, image synthesis, computer grap
 # Publications
 
 # Researches
+
+## Synthetic World to Realistic Images using GAN
+
+
+## Efficient k-shot Learning with 
+
+
+## Object Detection by Synthesis
 
 
 ## Welcome to GitHub Pages
