@@ -4,7 +4,7 @@ Postdoctoral Researcher
 
 Carnegie Mellon University, Robotics Institute
 
-Email: donghyuy@andrew.cmu.edu
+Email: donghyuy at andrew dot cmu dot edu
 
 CV
 
